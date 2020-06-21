@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829907495049",
+    "firebase_url": "https://brew-crew-flutter-ff4cd.firebaseio.com",
+    "project_id": "brew-crew-flutter-ff4cd",
+    "storage_bucket": "brew-crew-flutter-ff4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829907495049:android:61d43a2979a08c3248be58",
+        "android_client_info": {
+          "package_name": "com.example.Project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829907495049-60vo7bh15f61bct9c8h0ckcfvk4d39ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM23F5YhzjPxystrhE47HZ8cC4wll_K6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829907495049-60vo7bh15f61bct9c8h0ckcfvk4d39ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
